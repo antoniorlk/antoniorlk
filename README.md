@@ -1,16 +1,15 @@
-## Hi there 👋
+## bem vindos ao meu perfil ☯️
 
-<!--
-**antoniorlk/antoniorlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Antonio rlk
 
-Here are some ideas to get you started:
+- estou estudando no alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou me desenvolvendo na linguagem javascript
+
+- utilizo esse espaco para minha organizacao e compartilhamentodos meus projetos
+
+## voce pode entrar em contato comigo 📧 
+
+000107968623xsp@al.educacao.sp.gov.br
+
+![](https://media.tenor.com/QrQV9_VVk0cAAAAM/ew-nope.gif)
